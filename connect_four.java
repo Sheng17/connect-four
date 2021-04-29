@@ -1,6 +1,6 @@
 package ds_project;
 import java.util.Scanner;
-public class Connect_4
+public class connect_four
 {
 	static int top1=-1,top2=-1,top3=-1,top4=-1,top5=-1,top6=-1,top7=-1;
 	static String col1[],col2[],col3[],col4[],col5[],col6[],col7[];
