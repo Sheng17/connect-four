@@ -9,3 +9,5 @@ Steps:
 3) In order to stack their piece on the board, they must enter the number associated with the column they want to put it in.
 
 The program keeps track of each win.
+
+It is coded entirely in Java.
