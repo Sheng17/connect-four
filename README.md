@@ -1,4 +1,4 @@
-# connect-four
+# Connect Four
 
 Interactive two-player-only version of "Connect Four", coded on Java.
 It is played entirely on the output terminal.
